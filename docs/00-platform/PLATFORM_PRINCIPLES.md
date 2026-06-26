@@ -103,6 +103,12 @@ Major changes require:
 
 ---
 
+## Principle 13
+
+**We optimize for explicitness.**
+
+---
+
 ## The Architect's Rule
 
 If someone says:
